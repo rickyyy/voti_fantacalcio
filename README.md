@@ -1,5 +1,5 @@
 # voti_fantacalcio
-Script Python che calcola in maniera automatica i voti del fantacalcio.
+Script Python (2.7) che calcola in maniera automatica i voti del fantacalcio.
 
 # Utilizzo
 python voti_fantacalcio.py File_Formazioni N_Giornata
