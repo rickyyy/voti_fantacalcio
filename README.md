@@ -2,7 +2,7 @@
 Script Python (2.7) che calcola in maniera automatica i voti del fantacalcio.
 
 ## Utilizzo
-Esempio: *python voti_fantacalcio.py file_formazioni numero_giornata*
+Esempio: *python voti_fantacalcio.py numero_giornata file_formazioni*
 
 Il file con le formazioni deve avere il seguente formato:
 
